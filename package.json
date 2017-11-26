@@ -1,6 +1,6 @@
 {
   "name": "twitch-helix-api",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A NPM library designed to make use of the Twitch Helix API easier!",
   "main": "index.js",
   "dependencies": {
