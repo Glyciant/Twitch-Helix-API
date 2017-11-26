@@ -1,0 +1,16 @@
+{
+  "name": "twitch-helix-api",
+  "version": "1.0.0",
+  "description": "A NPM library designed to make use of the Twitch Helix API easier!",
+  "main": "index.js",
+  "dependencies": {
+    "query-string": "^5.0.1",
+    "restler": "^3.4.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Glyciant",
+  "license": "ISC"
+}
